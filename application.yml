@@ -1,2 +1,5 @@
-my:
-    config: default properties here
+mongo-database:
+  database-name: tiswebDmmUserServiceDevA
+
+mssql-database:
+  database-name: user_service_dev_a
