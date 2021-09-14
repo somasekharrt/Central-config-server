@@ -1,5 +1,5 @@
 mongo-database:
-  database-name: tiswebDmmUserServiceDevA
+  database-name: defaultMongo
 
 mssql-database:
   database-name: user_service_dev_a
