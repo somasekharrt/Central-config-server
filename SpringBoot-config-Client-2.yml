@@ -1,5 +1,5 @@
 mongo-database:
-  database-name: clientOneMongo
+  database-name: MongoClient2
 
 mssql-database:
-  database-name: user_service_dev_a
+  database-name: sqlClient2
