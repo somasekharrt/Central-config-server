@@ -1,3 +1,5 @@
+mongo-database:
+  database-name: tiswebDmmUserServiceDevA
 
-my:
-    config: SpringBoot-config-client2 properties here
+mssql-database:
+  database-name: user_service_dev_a
