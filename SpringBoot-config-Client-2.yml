@@ -1,1 +1,3 @@
 
+my:
+    config: SpringBoot-config-client2 properties here
