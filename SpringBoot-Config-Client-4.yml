@@ -1,5 +1,5 @@
 mongo-database:
-  database-name: MongoClient6
+  database-name: NoSQLMongo
 
 mssql-database:
   database-name: sqlClient4
