@@ -1,5 +1,5 @@
 mongodatabase:
-  databaseName: MongoDataBase
+  databaseName: RemoteDB
 
 mssql-database:
   database-name: sqlClient4
