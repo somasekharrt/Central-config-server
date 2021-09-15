@@ -1,5 +1,5 @@
 mongo-database:
-  database-name: defaultMongo
+  database-name: defaultMongoDB
 
 mssql-database:
-  database-name: user_service_dev_a
+  database-name: defaultmssql
