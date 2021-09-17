@@ -2,4 +2,4 @@ mongo-database:
   database-name: MongoClient2
 
 mssql-database:
-  database-name: sqlClient2
+  database-name: sqlClient2Changed
